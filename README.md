@@ -9,4 +9,5 @@ Catalogs:
 * LR-GradientDescent.ipynb : 基于 Gradient Descent 梯度下降与迭代预测房屋价格，包含对数据的标准化处理
 * LogisticRegression.ipynb 基于 Logistic Regression 逻辑斯蒂回归对鸢尾花分类
 * KMeansClustering.ipynb 基于 K-means clustering 算法，实现对消费者的聚类
+* Perception.ipynb 基于 Perception 感知器算法实现鸢尾花二分类
 * Watch.ipynb 测试文件
