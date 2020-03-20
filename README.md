@@ -10,4 +10,5 @@ Catalogs:
 * LogisticRegression.ipynb 基于 Logistic Regression 逻辑斯蒂回归对鸢尾花分类
 * KMeansClustering.ipynb 基于 K-means clustering 算法，实现对消费者的聚类
 * Perception.ipynb 基于 Perception 感知器算法实现鸢尾花二分类
+* DecisionTreeID3.ipynb 基于 Decision Tree ID3 算法实现贷款风险审批
 * Watch.ipynb 测试文件
